@@ -1,0 +1,94 @@
+{
+  "Buttons": {
+    "StartBtn": {
+      "en": "Play",
+      "pt": "Jogar"
+    },
+    "LoadBtn": {
+      "en": "Load",
+      "pt": "Carregar"
+    },
+    "ExitBtn": {
+      "en": "Exit",
+      "pt": "Sair"
+    },
+    "ContBtn": {
+      "en": "Continue",
+      "pt": "Continuar"
+    },
+    "FinishBtn": {
+      "en": "End Game",
+      "pt": "Finalizar Jogo"
+    },
+    "MenuBtn": {
+      "en": "Main Menu",
+      "pt": "Menu Principal"
+    }
+  },
+  "GamePanels": {
+    "PauseTxt": {
+      "en": "Pause Game",
+      "pt": "Pausar Jogo"
+    },
+    "CongratTxt": {
+      "en": "Well Done!",
+      "pt": "Muito Bem!"
+    },
+    "ExitTxt": {
+      "en": "Are you sure you want to leave this game?",
+      "pt": "Tem a certeza que quer sair \n do jogo?"
+    }
+  },
+   "Settings": {
+	   
+	"Setting": {
+      "en": "Musiquence Engine",
+      "pt": "Musiquence Engine"
+    },
+    "GameStyle": {
+      "en": "Game Style",
+      "pt": "Estilo de Jogo"
+    },
+    "SelectTech": {
+      "en": "Select Technology",
+      "pt": "Selecionar Tecnologia"
+    },
+    "UserMetric": {
+      "en": "User Metrics",
+      "pt": "Metricas Utilizador"
+    },
+	"Entertainment": {
+      "en": "Entertainment",
+      "pt": "Entretenimento"
+    },
+	"AR": {
+      "en": "Augmented Reality",
+      "pt": "Realidade Aumentada"
+    },
+	"Timer": {
+      "en": "Accessibility Timer",
+      "pt": "Temporizador de Acessibilidade"
+    },
+	"Click": {
+      "en": "Mouse Click / Tap",
+      "pt": "Clique do Rato / Toque"
+    },
+	"NoCursor": {
+      "en": "Hide Cursor",
+      "pt": "Ocultar Cursor"
+    },
+	"OpenCVWebcam": {
+      "en": "Webcam Movement",
+      "pt": "Movimento Webcam"
+    },
+	"OpenCVWebcamAssist": {
+      "en": "Webcam assistance",
+      "pt": "Assistencia Webcam"
+    }
+    ,
+	"OpenCVModel": {
+      "en": "Model",
+      "pt": "Modelo"
+    }
+  }
+}
